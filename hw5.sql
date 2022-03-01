@@ -12,6 +12,7 @@ CREATE TABLE productbuyer (
 
 );
 
+
 CREATE TABLE productorder (
 
 id int NOT NULL UNIQUE AUTO_INCREMENT,
